@@ -12,7 +12,7 @@ db = client['TEST']
 users_collection = db['PAID']
 
 # Bot Configuration
-TELEGRAM_BOT_TOKEN = '7492971015:AAGsGI-tkq5vDSWLRMRSDf35yk_4diksEY4'
+TELEGRAM_BOT_TOKEN = '8109089709:AAE54qKRSpYLB1J_aSD8s_iiwSRyeXr9Alc'
 ADMIN_USER_ID = 7415679316  # Replace with your admin user ID
 
 async def start(update: Update, context: CallbackContext):
